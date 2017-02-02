@@ -1,0 +1,9 @@
+.idea/
+coverage/
+node_modules/
+swagger/
+target/
+*.iml
+npm-debug.log
+.DS_Store
+auth.json

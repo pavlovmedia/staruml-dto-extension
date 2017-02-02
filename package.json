@@ -1,0 +1,27 @@
+{
+  "name": "dto.generator",
+  "title": "DTO Generator",
+  "description": "Creates Java DTOs based on the project model..",
+  "version": "0.0.1",
+  "scripts": {
+  },
+  "keywords": [
+    "StarUML",
+    "DTO"
+  ],
+  "author": "Pavlov Media",
+  "license": "ISC",
+  "engines": {
+    "staruml": ">=2.0.0"
+  },
+  "dependencies": {
+    "handlebars": "^4.0.6",
+    "lodash": "^4.17.4"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "diff": "^3.2.0",
+    "js-beautify": "^1.6.8",
+    "mocha": "^3.2.0"
+  }
+}
